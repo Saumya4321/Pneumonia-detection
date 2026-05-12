@@ -1,3 +1,6 @@
+<img width="1134" height="140" alt="image" src="https://github.com/user-attachments/assets/3c6014f7-40d5-4fbb-ac6a-f105fbd1b121" />
+
+
 # Comparative Study of CNN Training Strategies for Pneumonia Detection
 
 The following techniques are studied and compared
